@@ -1,4 +1,2 @@
-hi, i wanna a job
-
-please someone hire me
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
