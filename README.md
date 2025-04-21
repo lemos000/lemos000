@@ -2,9 +2,9 @@
 ## Eu tenho 20 anos e moro no Brasil
 
  
-- Trabalho como Analista de Desenvolvimento Junior na Revinn Estratégias!
-- Me especializando em Back-end com foco no Framework Spring Boot
-- Buscando crescimento no mercado de trabalho
+- Trabalho como Analista de Suporte Junior, mas busco migrar para desenvolvimento!
+- Apaixonado por back-end.
+- Buscando crescimento no mercado de trabalho.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemos000&show_icons=true&theme=onedark)](https://github.com/lemos000/github-readme-stats)
