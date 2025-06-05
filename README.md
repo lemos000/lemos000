@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemos000&show_icons=true&theme=onedark)](https://github.com/lemos000/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemos000&layout=compact)
 
  ### Conhecimentos:
  #### - Front-end:
